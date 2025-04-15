@@ -5,7 +5,7 @@ This project uses computer vision and hand tracking to play/pause, skip songs, a
 
 ## 🚀 Demo
 
-![Demo GIF](demo/implementation.mp4)  
+![Demo GIF](demo/Implementation.gif)  
 
 ## 🧠 Features
 
@@ -29,5 +29,3 @@ This project uses computer vision and hand tracking to play/pause, skip songs, a
 
 ```bash
 git clone https://github.com/224Abhay/spotify-gesture-control.git
-cd spotify-gesture-control
-pip install -r requirements.txt
