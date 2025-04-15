@@ -5,7 +5,7 @@ This project uses computer vision and hand tracking to play/pause, skip songs, a
 
 ## 🚀 Demo
 
-![Demo GIF](demo/demo.gif)  
+![Demo GIF](demo/implementation.mp4)  
 
 ## 🧠 Features
 
